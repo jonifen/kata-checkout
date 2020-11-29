@@ -1,0 +1,10 @@
+# CSharp specific
+.vs/
+bin/
+obj/
+packages/
+
+# JS Specific
+node_modules/
+dist/
+build/
